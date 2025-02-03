@@ -9,6 +9,8 @@
 - Processamento em lote: Capacidade de processar múltiplos arquivos ao mesmo tempo.
 - Foco em arquivos CSV: Otimizado para trabalhar com arquivos CSV, incluindo a remoção de linhas específicas ou vazias.
 
+- (OBS): Em anexo, há um arquivo no formato CSV para que você possa testar as funcionalidades do script: `transportadoras.csv`.
+
 -Instale as dependências::
 
 -`pip install python`
